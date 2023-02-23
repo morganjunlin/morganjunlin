@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm a full-stack engineer, currently specializing in React 🌐 (MERN stack) <br />
 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/morganjunlin/) or via e-mail at morganjunlin@gmail.com <br />
 🌐 My portfolio website can be found ➡️[here](https://morganjunlin.github.io/)
